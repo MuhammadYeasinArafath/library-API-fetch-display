@@ -1,0 +1,20 @@
+#body{
+    background-image: url("./image/background.jpg");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+   
+    min-height: 100vh;
+}
+#headercontent{
+    height: 100vh;
+}
+#footer{
+    background-color:black;
+    
+}
+
+.card-img-top{
+    height: 250px;
+    width: 250px;
+}
